@@ -1,0 +1,15 @@
+.bttn{
+  background-color:#7a8be7;
+  float: right;
+  margin-right:20px;
+  margin-bottom: 10px;
+}
+.container-fluid{
+  display: inline-block;
+}
+.card-body{
+  background-color:#5e78f9;
+}
+.addimg{
+  height: 50px;
+}
